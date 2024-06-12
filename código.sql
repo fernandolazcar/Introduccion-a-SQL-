@@ -136,3 +136,22 @@ SELECT * FROM cdemo;
 --verificamos 
 
 SELECT * FROM TC; 
+
+
+/*Si las tablas tienen columnas adicionales que no deseas incluir en la tabla consolidada, 
+puedes especificar las columnas que deseas incluir en la cláusula SELECT:
+
+CREATE TABLE tabla_consolidada AS
+SELECT columna1, columna2, columna3 FROM tabla1
+UNION
+SELECT columna1, columna2, columna3 FROM tabla2;
+*/ 
+
+CREATE TABLE TCC AS
+SELECT name,idp3 , idd3 FROM demo
+UNION ALL
+SELECT name,idp3 , idd3 FROM cdemo;
+
+--verificamos 
+
+SELECT * FROM TCC; 
