@@ -11,7 +11,7 @@ Como economista financiero, aprender SQL puede ser extremadamente beneficioso po
 - Ampliación de oportunidades laborales: Conocer SQL es una habilidad valiosa y demandada en el mercado laboral, lo que te abre oportunidades de carrera en el sector financiero y económico.
 - Mejora de la comprensión de los datos: Al trabajar directamente con los datos, puedes desarrollar una comprensión más profunda de los patrones y tendencias financieras, lo que te permite tomar decisiones más informadas.
 - Integración con otras herramientas: SQL se puede integrar con otras herramientas y lenguajes de programación, como Python, R o Excel, lo que te permite ampliar tus capacidades analíticas y crear soluciones más complejas.
-- 
+  
 En resumen, aprender SQL como economista financiero te permite trabajar de manera más eficiente con datos financieros, tomar decisiones más informadas y ampliar tus oportunidades laborales.
 
 Para usarlo puedes acceder al siguiente enlace 
